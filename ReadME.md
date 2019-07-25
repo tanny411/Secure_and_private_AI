@@ -1,5 +1,11 @@
 ## 60daysofudacity updates:
 
+Day 29:
+1. started learning transformers. running a model with transformer using fastai for text classification.
+2. finished datacamp course, manipulating pandas dataframe. cert https://www.datacamp.com/statement-of-accomplishment/course/3172ae542359868a51a6ed6c8fd53b14e9d2543c. It was quite a challenging course. Collected and practiced all lessons in this notebook https://colab.research.google.com/drive/1oL5PNbA9ZOakTEr3mkXuJ-V5owIrJjMR. Will need frequent revision.
+3.
+Got amazing encouragements today. Id like to encourage some amazing ladies @Helena Barmer @Shubhangi Jena @Labiba @SusanW @Joyce Obi
+
 Day 28:
 Started my notebook for 'manipualting pandas dataframe'. https://colab.research.google.com/drive/1oL5PNbA9ZOakTEr3mkXuJ-V5owIrJjMR anyone can take help from it as a quick brushup on pandas.
 My other notebooks are available here https://github.com/tanny411/Data-Camp/tree/master/Datascience%20with%20Python%20career%20track
