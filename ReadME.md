@@ -32,6 +32,6 @@ DAY 22:
 I will encourage @Joyce Obi @SusanW @Anna Scott @par
 
 ## My Study Groups:
-- #sg_ bangladeshi_schlrs : project on text summarization
-- #sg_ wrldwde-women-cdrs : project on dog_cat classification , updates avaiavle in https://github.com/shashigharti/images-classifier-sg_wrldwde_women_cdrs/tree/master/tanny411
-- #sg_ deepdive-nlp : updates avaiable in https://github.com/nlp-club/aisha_khatun_nlp_club
+- #sg_ bangladeshi_schlrs : project on text summarization. Updates available in https://github.com/tanny411/Secure_and_private_AI/tree/master/%23sg_bangladeshi_schlrs
+- #sg_ wrldwde-women-cdrs : project on dog_cat classification , Updates available in https://github.com/shashigharti/images-classifier-sg_wrldwde_women_cdrs/tree/master/tanny411
+- #sg_ deepdive-nlp : Updates avaiable in https://github.com/nlp-club/aisha_khatun_nlp_club
