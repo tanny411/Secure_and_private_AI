@@ -1,5 +1,11 @@
 ## 60daysofudacity updates:
 
+DAY 30 :penguin_dance::penguin_dance::penguin_dance:
+1. fastai nlp course video 3 done! 
+2. meetup of #sg_bangladeshi-schlrs . Amazing explanation from @Md. Mahedi Hasan Riday on lesson 7, along with @Nazmul, @Shudipto Trafder. Cleared up the lesson for me :heart:
+
+I would like to encourage @SusanW @Shudipto Trafder @Nazmul @Md. Mahedi Hasan Riday @Frida 
+
 Day 29:
 1. started learning transformers. running a model with transformer using fastai for text classification.
 2. finished datacamp course, manipulating pandas dataframe. cert https://www.datacamp.com/statement-of-accomplishment/course/3172ae542359868a51a6ed6c8fd53b14e9d2543c. It was quite a challenging course. Collected and practiced all lessons in this notebook https://colab.research.google.com/drive/1oL5PNbA9ZOakTEr3mkXuJ-V5owIrJjMR. Will need frequent revision.
