@@ -1,5 +1,13 @@
 ## 60daysofudacity updates:
 
+DAY 31:
+1. Meetup with the amazing people of #sg_deepdive-nlp. Special Thanks to @SusanW and @Aniket Mitra for helping me host the meeting. Meeting with @SusanW @Joyce Obi @Debankur @Ingus Terbets @Ashish Shrivastava @Gabriela Urquieta @Aniket Mitra @Andy @Droid
+2. We discussed our progress in the fastai course, the projects we will start and decided to start sharing resources in one place for easy access.
+3. Finished fast.ai nlp video 4
+4. Still learning transformers on a basic level and running my fastai model for text classification.
+https://github.com/tanny411/Secure_and_private_AI/blob/master/1.png?raw=1
+https://github.com/tanny411/Secure_and_private_AI/blob/master/Screenshot%202019-07-27%20at%204.13.41%20PM.png?raw=1
+
 DAY 30 :penguin_dance::penguin_dance::penguin_dance:
 1. fastai nlp course video 3 done! 
 2. meetup of #sg_bangladeshi-schlrs . Amazing explanation from @Md. Mahedi Hasan Riday on lesson 7, along with @Nazmul, @Shudipto Trafder. Cleared up the lesson for me :heart:
