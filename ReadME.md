@@ -1,4 +1,8 @@
 ## 60daysofudacity updates:
+Day 32:
+1. Meetup with amazing ladies over an hour in wmn_who_code with @Helena Barmer @Abbie Weisenbloom @Anju Mercian @Munira Omar @Mushrifah Hasan @Jess @Aarthi Alagammai @Ivy @Seeratpal K. Jaura @Nancy Al Aswad @Shubhangi Jena @Sky @Shanmugapriya @Urvi Soni @Joyce Obi @Suparna S Nair @Temitope Oladokun @cibaca
+2. We talked about hackathons, and I decided to start with a hackathon. Thanks a lot to @Munira Omar @Helena Barmer
+https://github.com/tanny411/Secure_and_private_AI/blob/master/img/Women Who Code Meetup 9.png?raw=1
 
 DAY 31:
 1. Meetup with the amazing people of #sg_deepdive-nlp. Special Thanks to @SusanW and @Aniket Mitra for helping me host the meeting. Meeting with @SusanW @Joyce Obi @Debankur @Ingus Terbets @Ashish Shrivastava @Gabriela Urquieta @Aniket Mitra @Andy @Droid
