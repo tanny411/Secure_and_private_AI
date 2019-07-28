@@ -5,8 +5,8 @@ DAY 31:
 2. We discussed our progress in the fastai course, the projects we will start and decided to start sharing resources in one place for easy access.
 3. Finished fast.ai nlp video 4
 4. Still learning transformers on a basic level and running my fastai model for text classification.
-https://github.com/tanny411/Secure_and_private_AI/blob/master/1.png?raw=1
-https://github.com/tanny411/Secure_and_private_AI/blob/master/Screenshot%202019-07-27%20at%204.13.41%20PM.png?raw=1
+https://github.com/tanny411/Secure_and_private_AI/blob/master/img/1.png?raw=1
+https://github.com/tanny411/Secure_and_private_AI/blob/master/img/Screenshot%202019-07-27%20at%204.13.41%20PM.png?raw=1
 
 DAY 30 :penguin_dance::penguin_dance::penguin_dance:
 1. fastai nlp course video 3 done! 
