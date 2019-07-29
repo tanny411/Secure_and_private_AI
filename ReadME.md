@@ -9,6 +9,8 @@ Today was a Siraj Sprint. Because, why not? Daily project work had turned monoto
 - and more!
 Find my short notes on these videos here -> https://github.com/tanny411/Secure_and_private_AI/blob/master/Siraj%20Sprint.md
 
+Encouraging @SusanW @par @Labiba @Md. Mahedi Hasan Riday @Nazmul @Shudipto Trafder @Dharmendra Choudhary @Joyce Obi @Debankur @Ingus Terbets @Ashish Shrivastava @Gabriela Urquieta @Aniket Mitra @Andy @Droid
+
 ### Day 32:
 1. Meetup with amazing ladies over an hour in wmn_who_code with @Helena Barmer @Abbie Weisenbloom @Anju Mercian @Munira Omar @Mushrifah Hasan @Jess @Aarthi Alagammai @Ivy @Seeratpal K. Jaura @Nancy Al Aswad @Shubhangi Jena @Sky @Shanmugapriya @Urvi Soni @Joyce Obi @Suparna S Nair @Temitope Oladokun @cibaca
 2. We talked about hackathons, and I decided to start with a hackathon. Thanks a lot to @Munira Omar @Helena Barmer
