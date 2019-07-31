@@ -28,11 +28,11 @@
 - Secure Multparty Computation: Solves the above mentioned problem. Data partitioned and encrypted. Computations possible in encrypted state. 
 - Differencial privacy: Makes sure a model learns only what its supposed to learn without accidentally learning private info from a dataset. Its a promise of the data scientist to the data owner.
 
-### Loss Funtions:
+## Loss Funtions:
 - https://www.youtube.com/watch?v=IVVVjBSk9N0
 - 
 
-### How to ML?
+## How to ML?
 - https://www.youtube.com/watch?v=waXHrc2m9K8
 - Lead A a healthy life. Self talk. Stop automated negative thoughts. You are NOT too old/unsmart/blah blah...
 - So many reources, no excuses please!!
@@ -43,5 +43,67 @@
 - Information overload is a real thing. Isolate from internet for sometime. Continuous 24 hour a week disconnet.
 - Optimize learning environment. A designated place to study!(We know this from habit forming books)
 
-### Todo:
+## ML in 3 months:
+- Look as hiring page for **DeepMined**
+- Skills:
+	- CS (ok!)
+	- Python
+	- ML
+	- Algorithmic design
+	- no PHD or numerous publications required!
+- ML prerequisites:
+	- 35% Linear Alg
+	- 25% probability and statistics
+	- 15% calculus
+	- 15% Algorithm and Complexity
+	- 10% Data pre-processing
+- https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
+- BUT... Daily... Keep up with the field!
+	- ML sub-reddit
+	- twitter !!!
+	- HackerNews
+
+## (The Art of) Deep Learning in 6 weeks(1.5 months???)
+- https://www.youtube.com/watch?v=_qjNH1rDLm0
+- Listings(for **job**)
+	- AngelList
+	- HackerNews
+	- indeed.com
+- They look for experience:
+	- building
+	- training
+	- **deploying** DL models for real life use cases!
+- A project every-week to build a portfolio in github
+- Ian Goodfellow book
+- 
+
+## How do we Democratize Access to Data?
+- **Redo!** 
+- https://www.youtube.com/watch?v=HAC6sqq7_-U
+- OpenMined
+	- deep learning
+	- federated learning
+	- homomorphic encryption
+	- blockchain smart contracts
+		- Decentralised immutable database
+- https://github.com/llSourcell/OpenMined_demo
+- **Challenge : Make a contribution to OpenMined!**
+
+## 10 books
+- https://www.youtube.com/watch?v=1lxHH1UBTBU&feature=youtu.be
+- criteria:
+	- free
+	- highly reviews
+	- for beginners
+- Dunning-kruger effect: One aspect of low intelligence is you dont know what you dont know!
+- David eagleman with Sadhguru interview.
+- Harvard intro to neuro science course on Edex.
+- Bayesian statictics and probabbilistic programming have a lot of real world applications such as automatic "hyperparameter fine-tuning"
+- Take a look at - Pyro: Uber AI labs deep probabilistic programming language!
+- Causal reasonong(being able to ask counter questions) is a huge limit in AI systems today. But if we solve it, it will make our systems mych more intelligent.
+- The Future of AI involves Quantum Computing!
+
+## ** Todo:
 - **TPU** : https://www.youtube.com/watch?v=jgNwywYcH4w
+- **Github** : https://www.youtube.com/watch?v=Loav1kbA640
+- **Research paper** : https://www.youtube.com/watch?v=S47RIVkr978
