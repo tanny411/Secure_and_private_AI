@@ -4,3 +4,6 @@ Suraiya Khan  9 hours ago
 Also if you search "Abstractive Summarization" on github you will see several implementations  (tensorflow, pytorch etc.) . I came to know about Abstractive Summarization from
 - https://ai.googleblog.com/2016/08/text-summarization-with-tensorflow.html and
 - http://pavel.surmenok.com/2016/10/15/how-to-run-text-summarization-with-tensorflow (edited)
+
+### Summarizations resources
+- https://www.analyticsvidhya.com/blog/2019/07/openai-gpt2-text-generator-python/
