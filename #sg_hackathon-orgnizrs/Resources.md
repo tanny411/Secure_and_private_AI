@@ -1,6 +1,17 @@
 ### Github
 https://github.com/Mushrifah/Virtual-Hackathon
 
+### Kaggle
+Seeratpal K. Jaura 3:00 AM
+Some resources that can help to get started on Kaggle:
+- https://www.kaggle.com/learn/overview
+- Kaggle vocabulary guide to help started: https://www.youtube.com/watch?v=sEJHyuWKd-s&list=PLqFaTIg4myu8gbDh6oBl7XRYNBlthpDEW
+- Entry-level introduction about Kaggle: https://towardsdatascience.com/how-to-get-started-with-kaggle-competitions-and-datascience-26d27108a444
+- Beginner guide to Kaggle: https://elitedatascience.com/beginner-kaggle
+- How to read data sets kaggle: https://www.kaggle.com/mchirico/how-to-read-datasets
+- Data Loading and Preprocessing tutorial: https://pytorch.org/tutorials/beginner/data_loading_tutorial.html
+- How to prepare for your first data science hackathon in less than 2 weeks?: https://www.analyticsvidhya.com/blog/2016/09/how-to-prepare-for-your-first-data-science-hackathon-in-less-than-2-weeks/
+
 ### Article
 - https://towardsdatascience.com/kaggle-for-beginners-getting-started-75decb43c0c0
 - https://medium.com/@ivolinengong/deep-cars-transfer-learning-with-pytorch-3e7541212e85
