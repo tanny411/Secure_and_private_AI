@@ -28,12 +28,10 @@
 - Secure Multparty Computation: Solves the above mentioned problem. Data partitioned and encrypted. Computations possible in encrypted state. 
 - Differencial privacy: Makes sure a model learns only what its supposed to learn without accidentally learning private info from a dataset. Its a promise of the data scientist to the data owner.
 
-## Loss Funtions:
-- https://www.youtube.com/watch?v=IVVVjBSk9N0
-- 
-
 ## How to ML?
 - https://www.youtube.com/watch?v=waXHrc2m9K8
+- https://github.com/llSourcell/Machine_Learning_Journey
+**Step - 1:**
 - Lead A a healthy life. Self talk. Stop automated negative thoughts. You are NOT too old/unsmart/blah blah...
 - So many reources, no excuses please!!
 - Peer GROUP! Classmates, Slacks.
@@ -41,7 +39,24 @@
 - Eat healthy. You know why!
 - Good nights rest is a MUST.
 - Information overload is a real thing. Isolate from internet for sometime. Continuous 24 hour a week disconnet.
+**Step - 2:**
 - Optimize learning environment. A designated place to study!(We know this from habit forming books)
+**Step - 3:**
+- Personalized learning path ***
+	- Diversify materials to know which suits best for you
+- 100 days Of ML pledge : https://github.com/llSourcell/100_Days_of_ML_Code
+**Step - 4:**
+- Priotize
+- Multitasking is a MYTH (I knew it!!!)
+- 4 Quadrant method!
+**Step - 5:**
+- Be an active learner
+- Need to be fully present
+- *FAST* method:
+	- **F**orget (Forget earlier assumptions about a topic)
+	- **A**ctivate (not inactively being lectured to)
+	- **S**tate (be in a good mood)
+	- **T**each (*Learn with the intention of teaching it to someone else*)
 
 ## ML in 3 months:
 - Look as hiring page for **DeepMined**
@@ -103,7 +118,19 @@
 - Causal reasonong(being able to ask counter questions) is a huge limit in AI systems today. But if we solve it, it will make our systems mych more intelligent.
 - The Future of AI involves Quantum Computing!
 
+## Learn NLP:
+- https://www.youtube.com/watch?v=GazFsfcijXQ&t=350s
+- 
+
+## Maths of ML:
+- https://www.youtube.com/watch?v=8onB7rPG4Pk
+- Stat, Prob, Calc, LA
+- Linear and Logistic regression explained
+
 ## ** Todo:
 - **TPU** : https://www.youtube.com/watch?v=jgNwywYcH4w
 - **Github** : https://www.youtube.com/watch?v=Loav1kbA640
 - **Research paper** : https://www.youtube.com/watch?v=S47RIVkr978
+- **Loss Funtions** : https://www.youtube.com/watch?v=IVVVjBSk9N0
+- **Activation Function** : https://www.youtube.com/watch?v=-7scQpJT7uo
+- **Andrew Trask** : https://www.youtube.com/watch?v=qJ1rdVEcl5g
