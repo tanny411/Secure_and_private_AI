@@ -1,5 +1,19 @@
 ## 60daysofudacity updates:
 
+### Day 36:
+Conducted a 3 hour long workshop on introductory machine learning. Github repo for the same can be found here ->> https://github.com/tanny411/ML-Workshop. It was a good experience being the teacher instead of the student. It was quite a warmup for myself even. Spend the morning till before the workshop preparing for it, just to make sure no one freaks out about deep learning.
+Thanks to my friends and my institution for making this possible!
+Encouraging @Shubhangi Jena @SusanW @Labiba @Munira Omar
+https://github.com/tanny411/ML-Workshop/tree/master/Workshop%20pics
+
+### Day 35:
+1. Watched some more siraj raval videos, updates available in the link. https://github.com/tanny411/Secure_and_private_AI/blob/master/Siraj%20Sprint.md
+2.  Working on the workshop I am going to take tomorrow. Will update with the workshop repo link in github.
+
+### Day 34: 
+yesterday couldnt update because of internet problem
+- Watched video 5 of fastai nlp (luckily was downloaded)
+
 ### Day 33:
 Today was a Siraj Sprint. Because, why not? Daily project work had turned monotonous.
 - NLP https://www.youtube.com/watch?v=bDxFvr1gpSU
