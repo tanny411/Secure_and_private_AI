@@ -1,5 +1,14 @@
 ## 60daysofudacity updates:
 
+### Day 38: August 3
+- Video 7 and 8 watched
+- ran some parts of notebook 5 . https://colab.research.google.com/drive/1Q4ybOyAJGr53uk3veq6dGG3C7-CsXrSS. Still to run the models.
+Encouraging @SusanW @par @Labiba @Md. Mahedi Hasan Riday @Nazmul @Shudipto Trafder @Dharmendra Choudhary @Joyce Obi @Debankur @Ingus Terbets @Ashish Shrivastava @Gabriela Urquieta @Aniket Mitra @Andy @Droid
+
+### Day 37: August 2
+- Running and understanding the notebook of 3 of fastai nlp, corresponding to video 4,5. my edited notebook https://colab.research.google.com/drive/1lFdr-Zi386sAjUYIXCmniReJnh56bH9A. Stuck at the last part.
+- Watching video 6
+
 ### Day 36:
 Conducted a 3 hour long workshop on introductory machine learning. Github repo for the same can be found here ->> https://github.com/tanny411/ML-Workshop. It was a good experience being the teacher instead of the student. It was quite a warmup for myself even. Spend the morning till before the workshop preparing for it, just to make sure no one freaks out about deep learning.
 Thanks to my friends and my institution for making this possible!
