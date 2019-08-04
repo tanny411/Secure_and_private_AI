@@ -3,7 +3,7 @@
 1. Attended women_who_code meetup. Thanks to @Temitope Oladokun for a boost of inspiration and confidence. @Helena Barmer @Sky @Frida @Munira Omar @Jess @Joyce Obi @Anshu Trivedi @cibaca @Mushrifah Hasan @Yujin @Seeratpal K. Jaura. Also encouraging you guys. :heart:
 2. Started reading the deeplearning book.
 3. Fastai nlp videos continuing on to lesson 9.
-![meetup image](https://github.com/tanny411/Secure_and_private_AI/blob/master/img/wmnwhocodeMeetup.png?raw=1 =200x100)
+https://github.com/tanny411/Secure_and_private_AI/blob/master/img/wmnwhocodeMeetup.png?raw=1 =200x100
 
 ### Day 38: August 3
 - Video 7 and 8 watched
