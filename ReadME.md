@@ -1,5 +1,9 @@
 ## 60daysofudacity updates:
 
+### Day 41: August 6
+Working on hackathon from #sg_hackathon-orgnizrs all day. Almost done!
+Encouraging @Labiba @SusanW @Dharmendra Choudhary @Helena Barmer @Md. Mahedi Hasan Riday @Munira Omar 
+
 ### Day 40: August 5
 1. Finished Datacamp course 'Merging dataframes with pandas'. My notebook on the same https://colab.research.google.com/drive/1MSjUgW5QyyiSOGJc8m52rfG7Q1ETvG7- and certificate https://www.datacamp.com/statement-of-accomplishment/course/076869693203f063f9fff5848e8e2d6c6dc24d35
 2. Running my text classification dataset on character level (lets see what happens)
