@@ -1,5 +1,10 @@
 ## 60daysofudacity updates:
 
+### Day 42: August 7
+1. Pulled an all nighter working on the hackathon project from #sg_hackathon-orgnizrs. Took quite some time to train.
+2. Worked on my character level text classification problem.
+Encouraging @SusanW @Aniket Mitra @Helena Barmer @Labiba @Munira Omar 
+
 ### Day 41: August 6
 Working on hackathon from #sg_hackathon-orgnizrs all day. Almost done!
 Encouraging @Labiba @SusanW @Dharmendra Choudhary @Helena Barmer @Md. Mahedi Hasan Riday @Munira Omar 
