@@ -39,17 +39,17 @@
 - Eat healthy. You know why!
 - Good nights rest is a MUST.
 - Information overload is a real thing. Isolate from internet for sometime. Continuous 24 hour a week disconnet.
-**Step - 2:**
+- **Step - 2:**
 - Optimize learning environment. A designated place to study!(We know this from habit forming books)
-**Step - 3:**
+- **Step - 3:**
 - Personalized learning path ***
 	- Diversify materials to know which suits best for you
 - 100 days Of ML pledge : https://github.com/llSourcell/100_Days_of_ML_Code
-**Step - 4:**
+- **Step - 4:**
 - Priotize
 - Multitasking is a MYTH (I knew it!!!)
 - 4 Quadrant method!
-**Step - 5:**
+- **Step - 5:**
 - Be an active learner
 - Need to be fully present
 - *FAST* method:
@@ -90,7 +90,6 @@
 	- **deploying** DL models for real life use cases!
 - A project every-week to build a portfolio in github
 - Ian Goodfellow book
-- 
 
 ## How do we Democratize Access to Data?
 - **Redo!** 
@@ -127,10 +126,95 @@
 - Stat, Prob, Calc, LA
 - Linear and Logistic regression explained
 
+### Github:
+- https://www.youtube.com/watch?v=Loav1kbA640
+- ![git workflow](https://github.com/tanny411/Secure_and_private_AI/blob/master/img/git.png)
+- git init
+- git config --global user.email ""
+- add, commit
+- checkout -b newbrach (creating and switching to the newbranch)
+- add commit in newbrach
+- git checkout master (switch to master)
+- git merge new_branch (will have conflict if changes are in the same file)
+- nano 'conflicting_file.txt' ad fix it
+- then add, commit
+- add remote and push
+- get more people to view/contribute to your code:
+	- good documentation
+	- add an explainer content e.g video/blog post
+- resources:
+	- https://guides.github.com/activities/hello-world/
+	- https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+	- ** https://try.github.io/
+	- http://kbroman.org/github_tutorial/
+	- https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html
+
+## How to Write a research paper:
+- https://www.youtube.com/watch?v=S47RIVkr978
+- start by asking question, broad or specific
+- try to find yourself the answers
+- verify from others
+- if you didnt find a answer, you found a good area for research
+- start narrowing the question down
+- collect your data, altho there's a large source, learn to be ctitical about what you choose. there may be biases. also .org, .edu are more reliable given .com MAY be business centric(therefore MAYBE misleading)
+- papers, sources of paper
+- start learning from your sources
+- you will have a possible solution to your question. that is your thesis.
+- thesis may change, no worries
+- ask for validation of your thesis from people well-versed in your topic
+- email paper authors directly, or ask in relevant social media platforms
+- after validation, experiment
+- start with a basic solution and then get creativeSS
+- start writing an outline
+- **actual paper writing starts**
+- look at papers and create a list of subsections
+- any extra subsectio you wanna add? or takeaway?
+- **Rough draft**: add all details, add refs
+- ideal length : 5-10 pages
+- omnigraohol, inscrae to create graphs: always better to show
+- smooth out from one topic to another
+- Dont try to make it perfect on the first go. Write, re-iterate
+- revise! grammar, spelling, factual errors
+- submit in journal or social media or just github
+- getting accepted gives your paper more technical authority
+
+### Loss Funtions
+- https://www.youtube.com/watch?v=IVVVjBSk9N0
+1. cross-entropy:
+- sum( -p*log(p) ) is the entropy, the info we got as bits from a sample, across all classes.
+- sum( -p*log(**q**) ) the difference in predicted distribution and actual distribution. Also called cross-entropy.
+- cross-entropy is paired with softmax for obvious reasons.
+- cross-entropy: `np.sum( -np.log( preds[,labels] ) )/m`
+2. Hinge loss:
+- usually in SVMs
+- our labels are either 1 or -1
+- for binary classification: sum( max( 0 , 1-y*h(x) ) )
+- faster. speed over accuracy? use hinge.
+3. Mean squared:
+- Also called l2 loss, used for regression
+- mean of the square of the difference in prediction :D
+- the square is there, to make our result quadratic, or convex, with a single minima.
+4. Mean absolute error:
+- average of the absolute of the difference in prediction
+- in regression
+- MAE is more robust towards outliers (because in MSE the bigger diff was being penalized too much)
+5. Hubar loss:
+- like mae, is lee sensitive to outliers
+- quadratic for small values, and linear for large values
+
+### Activation Function
+- https://www.youtube.com/watch?v=-7scQpJT7uo
+- without nonlinearities, everything will be linear :|
+- line, plane, hyperplane. just linear. Less complex.
+- we would like some x^2 or x^100
+- NN = _universal function approximators_
+- Also we want the function to be _differentiable_
+- Sigmoid: [0,1], but causes gradients to vanish or explode. Plus not zero centred.
+- Tanh: [-1,0], vanishing problem persists
+- Relu: improved convergence. vanishing problem avoided. only for hidden layers. At some point, a neuron is turns 0, will remain zero.
+- Leaky Relu: not exatly 0 for `x<0`. To not make 0 and keep the neuron alive. 
+- Maxout: generalization of relu and leaky relu, but doubles the # of parameters for each neuron.
+
 ## ** Todo:
 - **TPU** : https://www.youtube.com/watch?v=jgNwywYcH4w
-- **Github** : https://www.youtube.com/watch?v=Loav1kbA640
-- **Research paper** : https://www.youtube.com/watch?v=S47RIVkr978
-- **Loss Funtions** : https://www.youtube.com/watch?v=IVVVjBSk9N0
-- **Activation Function** : https://www.youtube.com/watch?v=-7scQpJT7uo
 - **Andrew Trask** : https://www.youtube.com/watch?v=qJ1rdVEcl5g
