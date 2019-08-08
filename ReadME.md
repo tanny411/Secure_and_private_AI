@@ -1,5 +1,16 @@
 ## 60daysofudacity updates:
 
+### Day 43: August 8
+1. Watched some more videos and took small notes:
+Notes available here: https://github.com/tanny411/Secure_and_private_AI/blob/master/Siraj%20Sprint.md
+	- Activation Function: https://www.youtube.com/watch?v=-7scQpJT7uo
+	- Loss Funtions: https://www.youtube.com/watch?v=IVVVjBSk9N0
+	- How to Write a research paper: https://www.youtube.com/watch?v=S47RIVkr978
+	- Github: https://www.youtube.com/watch?v=Loav1kbA640
+2. Training my character level text classification model. Problems with colab making it very hard to train faster.
+
+**Encouraging the encouragers:** @Helena Barmer @Abbie Weisenbloom @Anju Mercian @Munira Omar @Mushrifah Hasan @Jess @Aarthi Alagammai @Ivy @Seeratpal K. Jaura @Nancy Al Aswad @Shubhangi Jena @Sky @Shanmugapriya @Urvi Soni @Joyce Obi @Suparna S Nair @Temitope Oladokun @cibaca
+
 ### Day 42: August 7
 1. Pulled an all nighter working on the hackathon project from #sg_hackathon-orgnizrs. Took quite some time to train.
 2. Worked on my character level text classification problem.
