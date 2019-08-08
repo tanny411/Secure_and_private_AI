@@ -8,7 +8,8 @@ Notes available here: https://github.com/tanny411/Secure_and_private_AI/blob/mas
 	- How to Write a research paper: https://www.youtube.com/watch?v=S47RIVkr978
 	- Github: https://www.youtube.com/watch?v=Loav1kbA640
 2. Training my character level text classification model. Problems with colab making it very hard to train faster.
-
+3. Informative meeting of #sg_bangladeshi-schlrs with @Labiba @Shudipto Trafder @Md. Mahedi Hasan Riday. @Md. Mahedi Hasan Riday did an amazing job of explaining GAN to a complete novice like me. Reading, and will implement soon the beginner's GAN blog as suggested by him. Thank you for the explanations again. You put up lots of effort for each meetup. Much appreciation. :thank-you:
+meetup image: https://github.com/tanny411/Secure_and_private_AI/blob/master/img/gan.png?raw=1
 **Encouraging the encouragers:** @Helena Barmer @Abbie Weisenbloom @Anju Mercian @Munira Omar @Mushrifah Hasan @Jess @Aarthi Alagammai @Ivy @Seeratpal K. Jaura @Nancy Al Aswad @Shubhangi Jena @Sky @Shanmugapriya @Urvi Soni @Joyce Obi @Suparna S Nair @Temitope Oladokun @cibaca
 
 ### Day 42: August 7
