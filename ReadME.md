@@ -1,4 +1,10 @@
 ## 60daysofudacity updates:
+### Day 44: 9 August
+1. Completed Datacamp course Analyzing police data using pandas.
+2. Completed Datacamp course Intro to SQL for data science.
+3. Working on text classification with transfer learning.
+4. Researching and learning about character level model.
+Encouraging @Agata [OR, USA]  @nabhanpv @Ziad Esam Ezat @nabhanpv @sourav kumar @Labiba @Rumanu @Aniket Mitra @Marwa @Mika @Fustincho@Sourav  @Madison Estabrook (DL, FE, USA) @dhruvSharma @David Ashraf @Salomon @A S M Sadiqul Islam @Taimur Zahid @Labiba @Qurat Ul Ain Fatima @Khush @Aakash Dhal  @Droid @Fustincho @Halwai Aftab Hasan @happycoder354 @Archit @Daniel Adinugroho @Abhishek Tandon @Joy Poddar @Nancy Al Aswad @Shivam Raisharma @Taimur Zahid @Helena Barmer @Halwai Aftab Hasan
 
 ### Day 43: August 8
 1. Watched some more videos and took small notes:
