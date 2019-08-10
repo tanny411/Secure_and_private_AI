@@ -1,4 +1,15 @@
 ## 60daysofudacity updates:
+
+### Day 45: August 10
+1. Finished Data camp course introduction-to-relational-databases-in-sql as a part of Data Scientist with Python track. Find my notes here as a refresher on these topics -> https://github.com/tanny411/Data-Camp/tree/master/Datascience%20with%20Python%20career%20track.
+2. Amazing meeting of #sg_deepdive-nlp with @Ingus Terbets, @Dharmendra Choudhary, @bhavz , @Droid, @Sushil Ghimire, @Yasir Abdur Rohman, @SusanW. We discussed our progress with the fastai nlp course, nlp in general, @SusanW s experience in ACL, and the challenges we faced in the sentiment analysis hackathon organised in #sg_hackathon-orgnizrs .
+img: https://github.com/tanny411/Secure_and_private_AI/blob/master/img/nlp meeting no4.png?raw=1
+3. Teamed up, with @Dharmendra Choudhary as the team leader for abstractive summarization project. Ping him if you want in!
+4. Sentimentov2 hackathon participation badge: https://github.com/tanny411/Secure_and_private_AI/blob/master/img/sentimentov2.jpg?raw=1
+
+Encouraging @SusanW for being such a lovely person. Feel at home talking to you. Keep inspiring :heart:
+Also encouraging @Labiba @Md. Mahedi Hasan Riday @Dharmendra Choudhary @Aniket Mitra @Helena Barmer @Munira Omar @Shubhangi Jena @Droid @Nazmul @cibaca @Joyce Obi @Shudipto Trafder @Mushrifah Hasan @Jess @happycoder354 @Temitope Oladokun @Ingus Terbets
+
 ### Day 44: 9 August
 1. Completed Datacamp course Analyzing police data using pandas.
 2. Completed Datacamp course Intro to SQL for data science.
