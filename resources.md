@@ -4,6 +4,26 @@
 - All resources: https://airtable.com/shrSyz0zaGM52kksj/tbli6XwcjDSByLwLL/viw8FIuR24ToQ47Od?blocks=hide
 - NLP_CLUB trello : https://trello.com/b/lYQwQojM/udacity-nlp-with-pytorch
 
+
+### datanest data science intership
+Sankalp Dayal:speech_balloon:  10:53 PM
+Machine Learning Use Case in Google, Facebook, Amazon, Microsoft, Kaggle, General Electric, and Cornerstone
+By Bernard Maar
+This is will be useful if you apply for datanest data science intership 
+https://lnkd.in/fbKPq3A
+Need to know applied data science? Here's our path
+:white_check_mark: Step 1 Know Data Science
+https://lnkd.in/fMHtxYP
+:white_check_mark: Step 2 Know How to Implement Data Visualization in Business https://lnkd.in/fYUCzgC
+:white_check_mark: Step 3 Understand How to answer Why https://lnkd.in/f396Dqg
+:white_check_mark: Step 4 Know Machine Learning Key Terminology
+https://lnkd.in/fCihY9W
+:white_check_mark: Step 5 Understand Machine Learning Implementation
+https://lnkd.in/f5aUbBM
+:white_check_mark: Step 6 Machine Learning Applications on Marketing
+https://lnkd.in/fUDGAQW
+:white_check_mark: Step 7 Machine Learning Applications on Retail https://lnkd.in/fihPTJf
+
 ### SAPAI writing challenge
 https://medium.com/secure-and-private-ai-writing-challenge
 
