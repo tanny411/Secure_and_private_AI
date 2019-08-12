@@ -1,5 +1,20 @@
 ## 60daysofudacity updates:
 
+### Day 47: August 12
+1. Datacamp course completed https://www.datacamp.com/statement-of-accomplishment/course/7351102071cfc6c346a1b11ce0e4edd72894cfc4
+2. Reading journal papers to learn to read and write papers. 2 papers done so far. (in 350/journal repo)
+Encouraging active and influencing humans @cibaca @Mateusz @Jess @Ayesha Manzur @Madalin Mamuleanu @Mahedi@susyjam@Sourav@Dmytro Martyniuk @Aren Stark @Ebinbin Ajagun@Marwa @Yemi @Apoorva Patil@Anju Mercian @Mika@Amina Assouane @Madison Estabrook (DL, FE, USA)  @nesreensada @Ana @erinSnPAI @Shubhangi Jena @Temitope Oladokun @Frida @Bearbear@Abhishek Tandon @Mohammad Diab @Joyce Obi
+@Samuela Anastasi @Aditya kumar @Shashi Gharti@Sankalp Dayal  @sourav kumar @Carlo David @Vipul Aggarwal@Seeratpal K. Jaura  @Juan Carlos Kuri Pinto@Oudarjya Sen Sarma@Poornima Venkatraman @Ateniola Oluwatobi Victor@PaulBruce @Fustincho @iso. @Carlo David @Evi @Ronit @THIYAGARAJAN R @Mahak Bansal @Shanmugapriya @Aleksandra Deis@Vigneshwari @Urvi Soni@Droid
+@Nora @annaSWE @Shashank Jain @Carlo David@Akshay Pal @Nirupama Singh @Labiba @Helena Barmer
+
+### Day 46: August 11
+1. Almost done with character level text classification. Now its time to summariza and visualize all my results.
+2. Datacamp course : Intro to data visualization with python. Certificate https://www.datacamp.com/statement-of-accomplishment/course/1db42879e8676ea09f3b81c873781d339f894aa4. Discovered so many types of visualizations. Definitely going to help in data exploration before any project what so ever.
+3. Attended Meetup in #wmn_who_code with @Helena Barmer @Shubhangi Jena @Seeratpal K. Jaura @Mushrifah Hasan @Joyce Obi @Temitope Oladokun @Jess @cibaca @Susanne Brockmann @Munira Omar @Ivy @Suparna S Nair We talked about career towards the end. cant wait for next sunday to continue the discussion and learn more from amazing ladies :heart:
+Encouraging @Labiba @SusanW @Dharmendra Choudhary @Aniket Mitra @Ingus Terbets to keep up their good work and keep encouraging!
+meetup image: 
+
+
 ### Day 45: August 10
 1. Finished Data camp course introduction-to-relational-databases-in-sql as a part of Data Scientist with Python track. Find my notes here as a refresher on these topics -> https://github.com/tanny411/Data-Camp/tree/master/Datascience%20with%20Python%20career%20track.
 2. Amazing meeting of #sg_deepdive-nlp with @Ingus Terbets, @Dharmendra Choudhary, @bhavz , @Droid, @Sushil Ghimire, @Yasir Abdur Rohman, @SusanW. We discussed our progress with the fastai nlp course, nlp in general, @SusanW s experience in ACL, and the challenges we faced in the sentiment analysis hackathon organised in #sg_hackathon-orgnizrs .

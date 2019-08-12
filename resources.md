@@ -4,6 +4,14 @@
 - All resources: https://airtable.com/shrSyz0zaGM52kksj/tbli6XwcjDSByLwLL/viw8FIuR24ToQ47Od?blocks=hide
 - NLP_CLUB trello : https://trello.com/b/lYQwQojM/udacity-nlp-with-pytorch
 
+### interview
+Jess:udacity_badge: 9:48 PM
+How to interview at FANG (Facebook, Amazon, Netflix, Google)
+These companies are focused on problem-solving, specifically Algorithms and Data Structures.
+Here are some important resources to start with:
+• https://leetcode.com/
+• http://www.crackingthecodinginterview.com/
+• https://www.algoexpert.io/
 
 ### datanest data science intership
 Sankalp Dayal:speech_balloon:  10:53 PM
