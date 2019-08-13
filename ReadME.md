@@ -1,4 +1,9 @@
 ## 60daysofudacity updates:
+### Day 48: August 13
+1. Datacamp Course Statictical thinking in python part 1 https://www.datacamp.com/statement-of-accomplishment/course/76aa1ec1561c4c35e8fd2ff6fdadada8d302d08d
+2. Working on part 2
+3. Woked on project abstractive summarization lead by @Dharmendra Choudhary. Was stuck with some code, now things are going ok. Probably will be able to show something by tomorrow.
+Encouraging all team members of the project @Dharmendra Choudhary @SusanW @Labiba @Nicolas Araque @Mushrifah Hasan @Ingus Terbets 
 
 ### Day 47: August 12
 1. Datacamp course completed https://www.datacamp.com/statement-of-accomplishment/course/7351102071cfc6c346a1b11ce0e4edd72894cfc4
