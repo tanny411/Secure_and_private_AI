@@ -1,4 +1,16 @@
 ## 60daysofudacity updates:
+
+### Day 50: August 15
+Cant believe its day 50 already. Time sure flies!!
+Completed two datacamp courses.
+https://www.datacamp.com/statement-of-accomplishment/course/b1734f4a7c1f592f4b08a9a4f295e427da15e660 https://www.datacamp.com/statement-of-accomplishment/course/96827e71f22035d0d332817c8340f38352e19154
+Resumed with project work of summarization. Reading articles posted by team members and taking help of their codes.
+
+### Day 49: August 14
+1. Course statistical thinking in part 2 completed https://www.datacamp.com/statement-of-accomplishment/course/8942dbc8f41be75c61c3227fb4617c6e8cc97342
+2. Working on abstract summarization
+Encouraging @Aniket Mitra @Mahedi @SusanW @Shubhangi Jena @Mushrifah Hasan
+
 ### Day 48: August 13
 1. Datacamp Course Statictical thinking in python part 1 https://www.datacamp.com/statement-of-accomplishment/course/76aa1ec1561c4c35e8fd2ff6fdadada8d302d08d
 2. Working on part 2
