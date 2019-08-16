@@ -1,5 +1,17 @@
 ## 60daysofudacity updates:
 
+### Day 51: August 16
+1. Progressed in Datacamp course supervised-learning-with-scikit-learn
+2. Working on project to showcase: abstractive summrizations
+3. Read articles and viewed kernels for help
+https://www.kaggle.com/manuhg/summarizing-text-with-amazon-reviews
+https://www.kaggle.com/naraque/abstractive-text-summarization
+https://medium.com/@makcedward/nlp-pipeline-word-tokenization-part-1-4b2b547e6a3
+https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+https://github.com/alesee/abstractive-text-summarization/blob/master/abstractive-text-summ.ipynb
+4. For torchtext, starting https://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/
+Encouraging @SusanW @Dharmendra Choudhary @Labiba @Helena Barmer @Aniket Mitra @Mahedi @Mushrifah Hasan @Shubhangi Jena @Ingus Terbets @Munira Omar @Joyce Obi 
+
 ### Day 50: August 15
 Cant believe its day 50 already. Time sure flies!!
 Completed two datacamp courses.
