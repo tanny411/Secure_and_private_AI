@@ -1,5 +1,11 @@
 ## 60daysofudacity updates:
 
+### Day 52: August 17
+1. Finished Datacamp course supervised-learning-with-scikit-learn https://www.datacamp.com/statement-of-accomplishment/course/a5762fb7ae46a5b8a117351a7e0476e52a00e62f
+2. Started DataDriven multi-label project (only EDA)
+3. Doing project showcase work of abstractive summarization.
+Encouraging @Shubhangi Jena @SusanW  @Helena Barmer @Mushrifah Hasan @happycoder354 @Ivy @Droid @Ingus Terbets @Temitope Oladokun 
+
 ### Day 51: August 16
 1. Progressed in Datacamp course supervised-learning-with-scikit-learn
 2. Working on project to showcase: abstractive summrizations
