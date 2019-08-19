@@ -1,5 +1,19 @@
 ## 60daysofudacity updates:
 
+### Day 54 August 19:
+1. Contining project showcase work
+2. Progressed in Datcamp unsupervised learning course
+
+Encouraging @Sayed Maheen Basheer@Anju Mercian@Mahedi @Droid @Yujin @Dishin Goyani @nesreensada @happycoder354 @Qurat Ul Ain Fatima@Apoorva Patil@Tumi@Akash Antony @Rana Tallal  @Abhishek Tandon @Abhishek Lalwani@crazylazylife @Nazmul@Krishna Chari@James Korge@Kapil Chandorikar @Carlo David @Agata [OR, USA] @Marwa @Helena Barmer, @Shubhangi Jena @Jess @Munira Omar @SusanW @Ivy @Temitope Oladokun @Amina Assouane @Mohona @Roza @Mushrifah Hasan @Shanmugapriya @Labiba @Anju Mercian @Marwa @Joyce Obi @Seeratpal K. Jaura @Suparna S Nair @Aarthi Alagammai @Sky
+
+### Day 53: August 18:
+1. Finished School Budget Course on Datacamp https://www.datacamp.com/statement-of-accomplishment/course/8a7ef0fcb7c75efb080aa6d6b4df7980d4eb93c1
+2. Continued with project showcase
+3. Had a meetup with amazing ladies @Helena Barmer, @Shubhangi Jena @Jess @Munira Omar @SusanW @Ivy @Temitope Oladokun @Amina Assouane @Mohona @Roza @Mushrifah Hasan @Shanmugapriya @Labiba @Anju Mercian @Marwa @Joyce Obi @Seeratpal K. Jaura @Suparna S Nair @Aarthi Alagammai @Sky
+img: https://github.com/tanny411/Secure_and_private_AI/blob/master/img/WomenWhoCodeMeetupAugust18.png?raw=1
+
+Encouraging very active people of the community. @Mika @Ayush Jain @Taimur Zahid @Pablo Carmona - Zuluaga @Vivank Sharma @Anish Pandey @Ana @Mohona @Ellyana Linden@Ayesha Manzur @Labiba @Maria @Aren Stark @Vipul Aggarwal@Sourav@Bharati Subramanian @Anshu Trivedi@Aleksandra Deis@EPR @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Ivy @Juan Carlos Kuri Pinto @Soumya Nasipuri@Apoorv Agnihotri@PRAXS@Ashish Shrivastava @Oudarjya Sen Sarma @Mayank Devnani @barabash @annaSWE @Sarah Majors@Evi@Shahana@Munira Omar @Fustincho @Aisha Javed
+
 ### Day 52: August 17
 1. Finished Datacamp course supervised-learning-with-scikit-learn https://www.datacamp.com/statement-of-accomplishment/course/a5762fb7ae46a5b8a117351a7e0476e52a00e62f
 2. Started DataDriven multi-label project (only EDA)
