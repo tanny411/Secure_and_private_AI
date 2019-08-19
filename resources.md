@@ -4,6 +4,16 @@
 - All resources: https://airtable.com/shrSyz0zaGM52kksj/tbli6XwcjDSByLwLL/viw8FIuR24ToQ47Od?blocks=hide
 - NLP_CLUB trello : https://trello.com/b/lYQwQojM/udacity-nlp-with-pytorch
 
+### prepare for the tech giants' interviews
+Suparna S Nair:torch_heart_big: 9:35 PM
+:star2: Here are some of the links shared to me by one of my friends to prepare for the tech giants' interviews: :star2:
+1. https://www.coursera.org/learn/algorithms-part1
+2. https://www.coursera.org/learn/algorithms-part2
+3. https://www.udacity.com/course/intro-to-algorithms--cs215
+4. https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/
+5. https://www.quora.com/q/kqxqbzywcunzbyyp/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions
+6. https://blog.usejournal.com/500-data-structures-and-algorithms-practice-problems-35afe8a1e222
+
 ### interview
 Jess:udacity_badge: 9:48 PM
 How to interview at FANG (Facebook, Amazon, Netflix, Google)
