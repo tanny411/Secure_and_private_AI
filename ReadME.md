@@ -1,5 +1,17 @@
 ## 60daysofudacity updates:
 
+### Day 56: August 21:
+1. Finished course in datacamp 'ML with tree based models' https://www.datacamp.com/statement-of-accomplishment/course/cae92b096628cebc230c2d9b07ac4ee32508631f
+2. Continuing with 'basics of DL' course in Datcamp
+
+I encourage @Joyce Obi @Temitope Oladokun @SusanW @Mushrifah Hasan @Mahedi @Aniket Mitra @happycoder354
+
+### Day 55 August 20:
+1. Couldnt Update in time due to project submisssion. But finally finished and submitted the project for fine-food-reviews score classification
+2. still improving the model more(wont be submitted further)
+
+Encouraging @Agata [OR, USA] @Marwa @Helena Barmer, @Shubhangi Jena @Jess @Munira Omar @SusanW @Ivy @Temitope Oladokun @Amina Assouane @Mohona @Roza @Mushrifah Hasan @Shanmugapriya @Labiba @Anju Mercian @Marwa @Joyce Obi @Seeratpal K. Jaura @Suparna S Nair @Aarthi Alagammai @Sky
+
 ### Day 54 August 19:
 1. Contining project showcase work
 2. Progressed in Datcamp unsupervised learning course
