@@ -1,5 +1,10 @@
 ## 60daysofudacity updates:
 
+### Day 57: August 22:
+1. Finally finished datacamp datascientist with python career track! FINALLY! https://www.datacamp.com/statement-of-accomplishment/track/57a07cabd997ed15dbe12224aad77507a566e05a
+2. Did DL with keras course https://www.datacamp.com/statement-of-accomplishment/course/a4d314a09ed02d1911f8b96acf03dd6c671a12b8
+
+I encourage @Joyce Obi @Temitope Oladokun @SusanW @Mushrifah Hasan @Mahedi @Aniket Mitra @Labiba @Helena Barmer 
 ### Day 56: August 21:
 1. Finished course in datacamp 'ML with tree based models' https://www.datacamp.com/statement-of-accomplishment/course/cae92b096628cebc230c2d9b07ac4ee32508631f
 2. Continuing with 'basics of DL' course in Datcamp
