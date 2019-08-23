@@ -1,5 +1,10 @@
 ## 60daysofudacity updates:
 
+### Day 58: August 23:
+Revising Lesson 2. Will have to apply these ideas to my project. Going to make/collect notes.
+
+I Encourage @SusanW @Helena Barmer @Aniket Mitra @Shubhangi Jena @Seeratpal K. Jaura @Mushrifah Hasan @Ingus Terbets @Dharmendra Choudhary to keep going
+
 ### Day 57: August 22:
 1. Finally finished datacamp datascientist with python career track! FINALLY! https://www.datacamp.com/statement-of-accomplishment/track/57a07cabd997ed15dbe12224aad77507a566e05a
 2. Did DL with keras course https://www.datacamp.com/statement-of-accomplishment/course/a4d314a09ed02d1911f8b96acf03dd6c671a12b8
