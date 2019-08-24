@@ -1,5 +1,9 @@
 ## 60daysofudacity updates:
 
+### Day 59: August 24:
+Watched deeplizard pytorch playlist 21/32 videos. Needed a quick refresher. Relevant notebooks are : https://colab.research.google.com/drive/1f8AoUVnHKqxJyLx0Zwrhg2tLmFNA6ifL, https://colab.research.google.com/drive/1tQkHemQF1868plF1wk2bYOld3LZspEVF
+Encouraging @Jess @Marwa @Ayesha Manzur @susyjam @SusanW
+
 ### Day 58: August 23:
 Revising Lesson 2. Will have to apply these ideas to my project. Going to make/collect notes.
 
