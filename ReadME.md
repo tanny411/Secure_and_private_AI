@@ -1,5 +1,10 @@
 ## 60daysofudacity updates:
 
+### Day 60: August 25:
+Watched deeplizard pytorch playlist 22-29/32 videos. Relevant notebooks are  https://colab.research.google.com/drive/1f8AoUVnHKqxJyLx0Zwrhg2tLmFNA6ifL, https://colab.research.google.com/drive/1cWf2YCPdoJCwwjPFDfQ7uy8mqxDaLBhI
+
+Encouraging @Jess @Marwa @Ayesha Manzur @susyjam @SusanW, @Helena Barmer @Mushrifah Hasan @Dharmendra Choudhary @Seeratpal K. Jaura @Labiba @Shubhangi Jena @Shudipto Trafder @Mahedi
+
 ### Day 59: August 24:
 1. Watched deeplizard pytorch playlist 21/32 videos. Needed a quick refresher. Relevant notebooks are : https://colab.research.google.com/drive/1f8AoUVnHKqxJyLx0Zwrhg2tLmFNA6ifL, https://colab.research.google.com/drive/1tQkHemQF1868plF1wk2bYOld3LZspEVF
 2. 2. Attended webinar by @Salomon with @Mika @LauraT  @Seeratpal K. Jaura Akash and Ankit on Latex. Thanks to @Salomon for this webinar :smile:
