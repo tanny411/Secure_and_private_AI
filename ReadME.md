@@ -1,5 +1,12 @@
 ## 60daysofudacity updates:
 
+### Day 61 August 26:
+Trying to keep the momentum and will start my personal tracking after the challenge.
+For now:
+1. Towards completing deeplizards PyTorch playlist (learned about tensorboard use with pytoch)
+2. Writing a paper + learning to write technical papers on my thesis work.
+Encouraging @SusanW @Labiba @Helena Barmer @Mushrifah Hasan @Mahedi @Dharmendra Choudhary @Shubhangi Jena @Munira Omar @Ingus Terbets to keep up the momentum and move forward :celebrate::celebrate::celebrate:
+
 ### Day 60: August 25:
 Watched deeplizard pytorch playlist 22-29/32 videos. Relevant notebooks are  https://colab.research.google.com/drive/1f8AoUVnHKqxJyLx0Zwrhg2tLmFNA6ifL, https://colab.research.google.com/drive/1cWf2YCPdoJCwwjPFDfQ7uy8mqxDaLBhI
 
