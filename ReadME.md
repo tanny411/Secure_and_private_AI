@@ -1,5 +1,10 @@
 ## 60daysofudacity updates:
 
+### Day 62: August 27
+1. Finished Deeplizard pytorch. Amazing series (probably still running). corresponding notebook here https://colab.research.google.com/drive/1F04iVJQ-gXRp_vuW3PQsGz-noVS7Wlr9
+It shows code refactoring and hyper-parameter tuning easily. Badly needed it, finally found. Check it out.
+2. Continue writing my paper. 
+
 ### Day 61 August 26:
 Trying to keep the momentum and will start my personal tracking after the challenge.
 For now:
